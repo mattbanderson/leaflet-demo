@@ -1,0 +1,161 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.171968,39.758535 ]
+    },
+    "properties": {
+    "name":"Fifth Street Brewpub",
+    "url":"http://www.fifthstreet.coop/",
+    "address":"1600 E. Fifth Street Dayton, Ohio 45403",
+    "description":"Beer co-op in a renovated timber house with a beer garden serving gourmet pub fare & house brews. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.185458,39.761771 ]
+    },
+    "properties": {
+    "name":"Dayton Beer Company",
+    "url":"http://thedaytonbeerco.com/",
+    "address":"41 Madison St, Dayton, OH 45402",
+    "description":"Think Dayton. Drink Dayton."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.151548,39.703765 ]
+    },
+    "properties": {
+    "name":"Dayton Beer Company",
+    "url":"http://thedaytonbeerco.com/",
+    "address":"912 E Dorothy Ln, Dayton, OH 45419",
+    "description":"Think Dayton. Drink Dayton."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.185877,39.759651 ]
+    },
+    "properties": {
+    "name":"Warped Wing",
+    "url":"http://www.warpedwing.com/",
+    "address":"26 Wyandot St, Dayton, OH 45402",
+    "description":"Microbrewery in a historic industrial building with a tasting room offering creative beers & tours."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.889833,39.81015 ]
+    },
+    "properties": {
+    "name":"Yellow Springs Brewery",
+    "url":"http://www.yellowspringsbrewery.com/",
+    "address":"305 Walnut St, Yellow Springs, OH 45387",
+    "description":"Crafting Truth To Power."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.199902,39.729197 ]
+    },
+    "properties": {
+    "name":"Carillon Brewing Company",
+    "url":"http://www.carillonbrewingco.org/",
+    "address":"1000 Carillon Blvd, Dayton, OH 45409",
+    "description":"Brewery reproducing historical beer & European comfort-food recipes with staff in period costume."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.115728,39.67479 ]
+    },
+    "properties": {
+    "name":"Eudora Brewing Company",
+    "url":"http://eudorabrewing.com/",
+    "address":"4716 Wilmington Pike, Dayton, OH 45440",
+    "description":"Brewery crafting a range of beers & serving them in the onsite taproom alongside snacks & hot dogs."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.288621,39.638042 ]
+    },
+    "properties": {
+    "name":"Star City Brewing Company",
+    "url":"http://starcitybrewing.com/",
+    "address":"319 S 2nd St, Miamisburg, OH 45342",
+    "description":"Brewpub featuring house craft beers on tap in a cozy, rustic space with an easygoing vibe."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.288123,39.63912 ]
+    },
+    "properties": {
+    "name":"Lucky Star Brewery",
+    "url":"http://luckystarbrewery.com/",
+    "address":"219 S 2nd St, Miamisburg, OH 45342",
+    "description":"A fun place to enjoy beers eat some authentic Mexican food and hang out with friends."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.211837,39.88966 ]
+    },
+    "properties": {
+    "name":"Hairless Hare Brewery",
+    "url":"http://www.hairlessharebrewery.com/",
+    "address":"738 W National Rd, Vandalia, OH 45377",
+    "description":"Great Beer! Great Friends! Great Times! Life is good!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.230799,39.577258 ]
+    },
+    "properties": {
+    "name":"Crooked Handle Brewing Company",
+    "url":"http://www.chbeer.com/",
+    "address":"760 N Main St, Springboro, OH 45066",
+    "description":"Springboro's first craft brewery!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.162809,39.608967 ]
+    },
+    "properties": {
+    "name":"Lock 27 Brewing",
+    "url":"http://lock27brewing.com/",
+    "address":"1035 S Main St, Dayton, OH 45458",
+    "description":"Always Think Different."
+    }
+  }
+]
+}
