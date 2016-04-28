@@ -5,13 +5,21 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 var layers = L.control.layers().addTo(map);
 
-addGeoJsonToMap('data/metroparks.geo.json', 'Metroparks', true);
-addGeoJsonToMap('data/breweries.geo.json', 'Breweries', false);
+var beerIcon = L.icon({
+    iconUrl: 'img/beer.png',
+    iconSize: [53, 75]
+});
 
-function addGeoJsonToMap(url, layerName, showByDefault) {
+addGeoJsonToMap('data/metroparks.geo.json', 'Metroparks', true);
+addGeoJsonToMap('data/breweries.geo.json', 'Breweries', false, beerIcon);
+
+function addGeoJsonToMap(url, layerName, showByDefault, customIcon) {
   $.get(url, function(data) {
     var layer =
       L.geoJson(data, {
+        pointToLayer: function (feature, latlng) {
+          return L.marker(latlng, customIcon ? {icon: customIcon} : {});
+        },
         onEachFeature: function (feature, layer) {
           if (feature.properties && feature.properties.name) {
             layer.bindPopup(
