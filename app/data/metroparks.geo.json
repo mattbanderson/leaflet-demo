@@ -10,7 +10,7 @@
     "properties": {
     "name":"2nd St. Market",
     "description":"Local growers, bakers, culinary specialists, and artisans fill this charming historic freight house. Reminiscent of European markets, it's alive with vendors, people and activity during market hours.",
-    "url":"Parks/SecondStreetMarket/Home.aspx"
+    "url":"http://metroparks.org/Parks/SecondStreetMarket/Home.aspx"
     }
   },
   {
@@ -22,7 +22,7 @@
     "properties": {
     "name":"Aullwood Garden",
     "description":"This nationally recognized, historic estate garden is rich in plant diversity, habitats and tranquility. Many bird and butterfly species are observed here. The garden acquired its present configuration in the two decades following John and Marie's marriage in 1923. From the beginning, Wiles Creek served as a landscape focus and the forest shade determined the selection of plants. Tens of thousands of Virginia bluebells that now cover the hillsides in late April are the progeny of 500 plants they purchased.",
-    "url":"Parks/AullwoodGarden/Home.aspx"
+    "url":"http://metroparks.org/Parks/AullwoodGarden/Home.aspx"
     }
   },
   {
@@ -34,7 +34,7 @@
     "properties": {
     "name":"Carriage Hill",
     "description":"Farm life in the 1880s comes alive at Carriage Hill MetroPark. Visitor Center exhibits start the journey back in time while demonstrations, reconstructed and historical buildings, and even period farm animals paint the picture. There are also acres of natural beauty to enjoy and a horseback riding center. ",
-    "url":"Parks/CarriageHill/Home.aspx"
+    "url":"http://metroparks.org/Parks/CarriageHill/Home.aspx"
     }
   },
   {
@@ -46,7 +46,7 @@
     "properties": {
     "name":"Cox Arboretum",
     "description":"This beautiful 189-acre facility is a special place for visitors to escape among trees, shrubs, specialty gardens, mature forests, and prairies. The arboretum hosts year-round educational programs that teach children and adults about sustainable horticulture, plant science, and conservation. Cox Arboretum MetroPark is also home to a native-Ohio Butterfly House.",
-    "url":"Parks/CoxArboretum/Home.aspx"
+    "url":"http://metroparks.org/http://metroparks.org/Parks/CoxArboretum/Home.aspx"
     }
   },
   {
@@ -58,7 +58,7 @@
     "properties": {
     "name":"Deeds Point",
     "description":"Deeds Point MetroPark is located at the convergence of the Mad and Great Miami Rivers, this smaller MetroPark provides great views of downtown Dayton and the rivers that pass it borders.",
-    "url":"Parks/DeedsPoint/Home.aspx"
+    "url":"http://metroparks.org/Parks/DeedsPoint/Home.aspx"
     }
   },
   {
@@ -70,7 +70,7 @@
     "properties": {
     "name":"Eastwood",
     "description":"Highlights of Eastwood MetroPark include a 185-acre lake, Mad River, picnic shelters and a playground. The 3-mile loop trail offers hiking opportunities on mostly level terrain. Try fishing in Eastwood Lake or the Blue Lake or the Mad River. Bring the family and the boat out to Eastwood MetroPark for a fun-filled day on the water, or just enjoy a serene sojourn on the trails.",
-    "url":"Parks/Eastwood/Home.aspx"
+    "url":"http://metroparks.org/http://metroparks.org/Parks/Eastwood/Home.aspx"
     }
   },
   {
@@ -82,7 +82,7 @@
     "properties": {
     "name":"Englewood",
     "description":"Englewood MetroPark is one of five natural areas created by the construction of earthen flood control dams. Stillwater River, lakes, woods and wetlands serve as focal points of this 1,900-acre MetroPark.",
-    "url":"Parks/Englewood/Home.aspx"
+    "url":"http://metroparks.org/Parks/Englewood/Home.aspx"
     }
   },
   {
@@ -94,7 +94,7 @@
     "properties": {
     "name":"Germantown",
     "description":"A world of wilderness awaits with the Twin Valley Welcome Center and panoramic views. Elevated boardwalks and miles of scenic trails. Only 20 minutes from Dayton the park enables users to hike, kayak, fish, picnic, fossil collect and many other exciting adventures.",
-    "url":"Parks/Germantown/Home.aspx"
+    "url":"http://metroparks.org/Parks/Germantown/Home.aspx"
     }
   },
   {
@@ -106,7 +106,7 @@
     "properties": {
     "name":"Hills & Dales",
     "description":"This historic urban park has been a natural refuge for Daytonians since 1907. Its lush natural atmosphere provides a range of activities for visitors of all ages. With significant restorations completed in 2009, MetroParks has insured that Hills & Dales will continue its tradition as an outdoor playground for future generations.",
-    "url":"Parks/HillDales/Home.aspx"
+    "url":"http://metroparks.org/Parks/HillDales/Home.aspx"
     }
   },
   {
@@ -118,7 +118,7 @@
     "properties": {
     "name":"Huffman",
     "description":"Huffman Dam, the lake and the Mad River Highlight this MetroPark. The 3 mile trail offers the opportunity for hiking and wildlife/bird watching. There is a picnic shelter and other picnic sites to enjoy, or go fishing in the lake or river. And of course there is MetroParks Mountain Bike Area (MoMBA) - so \"Get Out and Ride!\"",
-    "url":"Parks/Huffman/Home.aspx"
+    "url":"http://metroparks.org/Parks/Huffman/Home.aspx"
     }
   },
   {
@@ -130,7 +130,7 @@
     "properties": {
     "name":"Island",
     "description":"Just a few miles north of RiverScape, where the Stillwater River flows into the Great Miami, is an urban oasis with a long Dayton history. Its roots as a park were planted in the 19th century. Now beautifully restored, people from all over the area gather for community events, picnics and family fun in the water play area.",
-    "url":"Parks/Island/Home.aspx"
+    "url":"http://metroparks.org/Parks/Island/Home.aspx"
     }
   },
   {
@@ -142,7 +142,7 @@
     "properties": {
     "name":"Possum Creek",
     "description":"Ponds and the lake offer lots of fishing for trout, catfish and many other species. A large planted prairie bursts with flowers and tall grasses from summer into fall. And then there's the farm, loaded with friendly farm animals that delight both children and adults all year round.",
-    "url":"Parks/PossumCreek/Home.aspx"
+    "url":"http://metroparks.org/Parks/PossumCreek/Home.aspx"
     }
   },
   {
@@ -154,7 +154,7 @@
     "properties": {
     "name":"RiverScape",
     "description":"Formerly Van Cleve Park, this popular park, found along the Great Miami River in the heart of Downtown Dayton, is a hub of activities for all ages -- from concerts and community events to bike rentals. Beautiful floral plantings, hanging baskets and fountains make RiverScape the Miami Valley's favorite community gathering place.",
-    "url":"Parks/RiverScape/Home.aspx"
+    "url":"http://metroparks.org/Parks/RiverScape/Home.aspx"
     }
   },
   {
@@ -166,7 +166,7 @@
     "properties": {
     "name":"Sugarcreek",
     "description":"Three 550 year old oak trees, a tall grass prairie, woodlands and scenic Sugar Creek beckon visitors. Although much of Sugarcreek's 618 acres were once farmland, MetroParks land management practices and natural processes have resulted in a variety of habitats. These support diverse wildlife that can be discovered as you hike, horseback ride or enjoy a leisurely picnic.",
-    "url":"Parks/Sugarcreek/Home.aspx"
+    "url":"http://metroparks.org/Parks/Sugarcreek/Home.aspx"
     }
   },
   {
@@ -178,7 +178,7 @@
     "properties": {
     "name":"Sunrise",
     "description":"This small urban park situated on a high bank above the Great Miami River offers scenic views of the river and the City of Dayton — and a wildlife viewing area. Steps lead down to the river for a closer look.",
-    "url":"Parks/Sunrise/Home.aspx"
+    "url":"http://metroparks.org/http://metroparks.org/Parks/Sunrise/Home.aspx"
     }
   },
   {
@@ -190,7 +190,7 @@
     "properties": {
     "name":"Taylorsville",
     "description":"Historic remnants of the Miami-Erie Canal and once-thriving village of Tadmor mix with scenic forests to provide an interesting experience for both the hiker and bicyclist. In addition, fascinating rock formations with overhangs and small cavitations with calcite ribbons can be found.",
-    "url":"Parks/Taylorsville/Home.aspx"
+    "url":"http://metroparks.org/Parks/Taylorsville/Home.aspx"
     }
   },
   {
@@ -202,7 +202,7 @@
     "properties": {
     "name":"Twin Creek",
     "description":"A world of serenity awaits with panoramic views and miles of hiking and equestrian trails. Only 20 minutes from Dayton, the park enables users to hike, fish, picnic, and many other exciting adventures.",
-    "url":"Parks/TwinCreek/Home.aspx"
+    "url":"http://metroparks.org/Parks/TwinCreek/Home.aspx"
     }
   },
   {
@@ -214,7 +214,7 @@
     "properties": {
     "name":"Wegerzyn Gardens",
     "description":"Stroll through formal gardens and the delightful Children's Discovery Garden. Every season has something special to offer. Home gardeners will find a wealth of design ideas, wonderful plants, and cultivation techniques suitable for the Miami Valley. Also walk the Marie Aull Nature Trail and Swamp Forest Boardwalk and discover the scenic Stillwater River corridor.",
-    "url":"Parks/WegerzynGarden/Home.aspx"
+    "url":"http://metroparks.org/Parks/WegerzynGarden/Home.aspx"
     }
   },
   {
@@ -226,7 +226,7 @@
     "properties": {
     "name":"Wesleyan",
     "description":"Situated on Wolf Creek, it's hard to believe this scenic, natural area is located within Dayton city limits. Beautiful woodlands, the river and wildlife bring urban residents close to nature. In addition, Wesleyan is the site of Adventure Central, an innovative partnership between MetroParks and Ohio State University Extension, 4-H Youth Development. Here urban youth learn more about the environment and themselves through after-school programs, clubs and camps.",
-    "url":"Parks/WesleyanAdventure/Home.aspx"
+    "url":"http://metroparks.org/Parks/WesleyanAdventure/Home.aspx"
     }
   }
 ]

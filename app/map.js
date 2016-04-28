@@ -14,7 +14,7 @@ function addGeoJsonToMap(url) {
           layer.bindPopup(
             '<h3>' + feature.properties.name + ' Metropark</h3>' +
             '<p>' + feature.properties.description + '</p>' +
-            '<a href="' + 'http://metroparks.org/' + feature.properties.url + '" target="_blank">Learn More</a>'
+            '<a href="' + feature.properties.url + '" target="_blank">Learn More</a>'
           );
         }
       }
