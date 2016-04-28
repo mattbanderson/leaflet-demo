@@ -11,5 +11,13 @@ Features include:
 * Custom marker icons
 * Detail popups
 
+##Usage
+
+    git clone https://github.com/mbanderson3/leaflet-demo.git
+    cd leaflet-demo/app
+    npm install
+    npm start
+    browse to http://localhost:3000/
+
 ##License
 MIT
