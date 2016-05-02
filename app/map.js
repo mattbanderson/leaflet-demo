@@ -3,15 +3,9 @@ var map = L.map('map').setView([39.76, -84.18], 11);
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
-var layers = L.control.layers().addTo(map);
-
-var beerIcon = L.icon({
-    iconUrl: 'img/beer.png',
-    iconSize: [53, 75]
-});
+var layersCtrl = L.control.layers().addTo(map);
 
 addGeoJsonToMap('data/metroparks.geo.json', 'Metroparks', true);
-addGeoJsonToMap('data/breweries.geo.json', 'Breweries', false, beerIcon);
 
 function addGeoJsonToMap(url, layerName, showByDefault, customIcon) {
   $.get(url, function(data) {
@@ -33,6 +27,12 @@ function addGeoJsonToMap(url, layerName, showByDefault, customIcon) {
     if (showByDefault) {
       layer.addTo(map);
     }
-    layers.addOverlay(layer, layerName);
+    layersCtrl.addOverlay(layer, layerName);
   });
 }
+
+var beerIcon = L.icon({
+    iconUrl: 'img/beer.png',
+    iconSize: [53, 75]
+});
+addGeoJsonToMap('data/breweries.geo.json', 'Breweries', false, beerIcon);
