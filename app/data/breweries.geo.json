@@ -148,6 +148,19 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ -84.183965,39.757388 ]
+    },
+    "properties": {
+    "name":"Toxic Brew Company",
+    "url":"http://toxicbrewcompany.com/",
+    "address":"431 E. Fifth Street Dayton, OH 45402",
+    "description":"Dayton's first brewery in over 50 years!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ -84.162809,39.608967 ]
     },
     "properties": {
