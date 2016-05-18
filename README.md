@@ -13,7 +13,7 @@ Features include:
 
 ##Usage
 
-    git clone https://github.com/mbanderson3/leaflet-demo.git
+    git clone https://github.com/mattbanderson/leaflet-demo.git
     cd leaflet-demo/app
     npm install
     npm start
